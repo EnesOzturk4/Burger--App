@@ -1,0 +1,17 @@
+C:\Users\oztur\OneDrive\Masaüstü\alp hoca uygulamalar\ANK15Hamburgeruyg\ANK15hamburgeruygulama\obj\Debug\ANK15hamburgeruygulama.csproj.AssemblyReference.cache
+C:\Users\oztur\OneDrive\Masaüstü\alp hoca uygulamalar\ANK15Hamburgeruyg\ANK15hamburgeruygulama\obj\Debug\ANK15hamburgeruygulama.AnaForm.resources
+C:\Users\oztur\OneDrive\Masaüstü\alp hoca uygulamalar\ANK15Hamburgeruyg\ANK15hamburgeruygulama\obj\Debug\ANK15hamburgeruygulama.ExtraMalzeme.resources
+C:\Users\oztur\OneDrive\Masaüstü\alp hoca uygulamalar\ANK15Hamburgeruyg\ANK15hamburgeruygulama\obj\Debug\ANK15hamburgeruygulama.MenuEkleme.resources
+C:\Users\oztur\OneDrive\Masaüstü\alp hoca uygulamalar\ANK15Hamburgeruyg\ANK15hamburgeruygulama\obj\Debug\ANK15hamburgeruygulama.Properties.Resources.resources
+C:\Users\oztur\OneDrive\Masaüstü\alp hoca uygulamalar\ANK15Hamburgeruyg\ANK15hamburgeruygulama\obj\Debug\ANK15hamburgeruygulama.SiparisBilgileri.resources
+C:\Users\oztur\OneDrive\Masaüstü\alp hoca uygulamalar\ANK15Hamburgeruyg\ANK15hamburgeruygulama\obj\Debug\ANK15hamburgeruygulama.SiparisEkleme.resources
+C:\Users\oztur\OneDrive\Masaüstü\alp hoca uygulamalar\ANK15Hamburgeruyg\ANK15hamburgeruygulama\obj\Debug\ANK15hamburgeruygulama.csproj.GenerateResource.cache
+C:\Users\oztur\OneDrive\Masaüstü\alp hoca uygulamalar\ANK15Hamburgeruyg\ANK15hamburgeruygulama\obj\Debug\ANK15hamburgeruygulama.csproj.CoreCompileInputs.cache
+C:\Users\oztur\OneDrive\Masaüstü\alp hoca uygulamalar\ANK15Hamburgeruyg\ANK15hamburgeruygulama\bin\Debug\ANK15hamburgeruygulama.exe.config
+C:\Users\oztur\OneDrive\Masaüstü\alp hoca uygulamalar\ANK15Hamburgeruyg\ANK15hamburgeruygulama\bin\Debug\ANK15hamburgeruygulama.exe
+C:\Users\oztur\OneDrive\Masaüstü\alp hoca uygulamalar\ANK15Hamburgeruyg\ANK15hamburgeruygulama\bin\Debug\ANK15hamburgeruygulama.pdb
+C:\Users\oztur\OneDrive\Masaüstü\alp hoca uygulamalar\ANK15Hamburgeruyg\ANK15hamburgeruygulama\obj\Debug\ANK15hamburgeruygulama.exe
+C:\Users\oztur\OneDrive\Masaüstü\alp hoca uygulamalar\ANK15Hamburgeruyg\ANK15hamburgeruygulama\obj\Debug\ANK15hamburgeruygulama.pdb
+C:\Users\oztur\Downloads\ANK15Hamburgeruyg\ANK15hamburgeruygulama\obj\Debug\ANK15hamburgeruygulama.csproj.AssemblyReference.cache
+C:\Users\oztur\Downloads\ANK15Hamburgeruyg\ANK15hamburgeruygulama\obj\Debug\ANK15hamburgeruygulama.exe
+C:\Users\oztur\Downloads\ANK15Hamburgeruyg\ANK15hamburgeruygulama\obj\Debug\ANK15hamburgeruygulama.pdb
